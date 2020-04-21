@@ -2,7 +2,11 @@
 # -e .
 
 # external requirements
+Pillow
 pandas
 numpy
 torch
+torchvision
 matplotlib
+requests
+argparse
